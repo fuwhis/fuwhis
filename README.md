@@ -21,9 +21,11 @@ I'm currently listening:
 
 #### GitHub Stats
 
-![Fuwhis's Github Stats](https://github-readme-stats.vercel.app/api?username=fuwhis&show_icons=true&title_color=1982f9&icon_color=1982f9&bg_color=9900FF&text_color=fafafa)
+![Fuwhis's Stats](https://github-readme-stats.vercel.app/api?username=fuwhis&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuwhis&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=fafafa)
+![Fuwhis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuwhis&theme=vue-dark&hide_border=false)
+
+![Fuwhis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuwhis&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuwhis&repo=FunWithJS)](https://github.com/fuwhis/FunWithJS) -->
 
