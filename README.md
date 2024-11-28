@@ -7,11 +7,13 @@
 <h3 align="center">Front-end Web Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fuwhis&color=yellow&style=flat">
-  <!-- <a href="https://wakatime.com/@018e0517-06b9-4346-93cb-b91a2f4a9d12"><img src="https://wakatime.com/badge/user/018e0517-06b9-4346-93cb-b91a2f4a9d12.svg" alt="Total time coded since Nov 28 2024" /></a> -->
+  <a href="https://wakatime.com/@018e0517-06b9-4346-93cb-b91a2f4a9d12"><img src="https://wakatime.com/badge/user/018e0517-06b9-4346-93cb-b91a2f4a9d12.svg" alt="Total time coded since Nov 28 2024" /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=28A745&center=true&vCenter=true&random=true&width=435&lines=Code+Today%2C+Shape+Tomorrow+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=28A745&center=true&vCenter=true&random=true&width=435&lines=Code+Today%2C+Shape+Tomorrow+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
 </p>
 
 - 🥰 I love coding, badminton, and reading technology topics.
@@ -21,17 +23,34 @@
 
 ## What I shared
 
-- My first blog: [Deep dive to Prototype](https://substack.com/home/post/p-149901267) <br/>
+- [JavaScript: Deep dive to Prototype](https://substack.com/home/post/p-149901267) <br/>
 
 ---
 
-## 📫 &nbsp; How to reach me:
+## 📫 &nbsp; How to reach me
 
 <p align="center">
-  <a href="https://github.com/fuwhis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/quynp01/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- <a href="https://twitter.com/quynp1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-  <a href="mailto:quynguyen.itengineer@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-quynguyen.itengineer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quynguyen.itengineer@gmail.com"/></a> 
+  <a href="https://github.com/fuwhis" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/quynp01/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a href="https://twitter.com/quynp1" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> -->
+  <a href="mailto:quynguyen.itengineer@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <!-- <a href="https://leetcode.com/u/fuwhis" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  </a> -->
+  <!-- <a href="https://stackoverflow.com/users/9931606/littleant" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a> -->
+  <a href="https://substack.com/@fuwhis" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/>
+  </a>
 </p>
 
 <!-- 📃 CV: [https://fuwhis.github.io](https://fuwhis.github.io) </br> -->
@@ -39,11 +58,17 @@
 
 <!-- ☕️ [Buy me a coffee](https://buymeacoffee.com/fuwhis) </br> -->
 
-🎧 I'm currently listening:
+<h4 align="center">🎧 I'm currently listening:</h4>
 
-[![Spotify](https://ldhnam.vercel.app/api/spotify)](https://open.spotify.com/user/wjkxsp0ez5kscr3ou1or3cgor)
+<div style="text-align: center;">
+  <a href="https://open.spotify.com/user/wjkxsp0ez5kscr3ou1or3cgor" target="_blank">
+    <img src="https://ldhnam.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</div>
 
-#### GitHub Stats
+---
+
+## GitHub Stats
 
 <table align="center" style="border: 1px solid #ccc; border-radius: 15px; border-collapse: collapse;">
   <tr>
