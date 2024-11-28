@@ -1,4 +1,3 @@
-<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I’m Fuwhis</h1> -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEyMTZ1eHIyMnFja3NhMnFtaWgwc2N3aHJ2ZGR1dGU0ZmJmcDNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OOkuWV0M23iS2C8DwZ/giphy.webp" width="250">
 </p>
@@ -18,6 +17,7 @@
 
 - 🥰 I love coding, badminton, and reading technology topics.
 - 🌱 I’m currently learning AWS and System design
+- ☕️ [Buy me a coffee](https://buymeacoffee.com/fuwhis)
 
 ---
 
@@ -53,11 +53,6 @@
   </a>
 </p>
 
-<!-- 📃 CV: [https://fuwhis.github.io](https://fuwhis.github.io) </br> -->
-<!-- 📃 CV (pdf): [https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635](https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635) </br> -->
-
-<!-- ☕️ [Buy me a coffee](https://buymeacoffee.com/fuwhis) </br> -->
-
 <h4 align="center">🎧 I'm currently listening:</h4>
 
 <div style="text-align: center;">
@@ -90,15 +85,3 @@
     </td>
   </tr>
 </table>
-
-<!-- ![Fuwhis's Stats](https://github-readme-stats.vercel.app/api?username=fuwhis&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-![Fuwhis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuwhis&theme=vue-dark&hide_border=false)
-
-![Fuwhis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuwhis&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
-
-<!-- [![Fuwhis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fuwhis&theme=vue)](https://github.com/fuwhis/github-readme-activity-graph) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuwhis&repo=FunWithJS)](https://github.com/fuwhis/FunWithJS) -->
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
