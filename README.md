@@ -1,7 +1,23 @@
-### 👋 Hi, I’m @fuwhis
+<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I’m Fuwhis</h1> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejEyMTZ1eHIyMnFja3NhMnFtaWgwc2N3aHJ2ZGR1dGU0ZmJmcDNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OOkuWV0M23iS2C8DwZ/giphy.webp" width="250">
+</p>
+
+<h2 align="center">Hi, I'm Fuwhis</h2>
+<h3 align="center">Front-end Web Developer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fuwhis&color=yellow&style=flat">
+  <!-- <a href="https://wakatime.com/@018e0517-06b9-4346-93cb-b91a2f4a9d12"><img src="https://wakatime.com/badge/user/018e0517-06b9-4346-93cb-b91a2f4a9d12.svg" alt="Total time coded since Nov 28 2024" /></a> -->
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=28A745&center=true&vCenter=true&random=true&width=435&lines=Code+Today%2C+Shape+Tomorrow+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+</p>
 
 - 🥰 I love coding, badminton, and reading technology topics.
 - 🌱 I’m currently learning AWS and System design
+
+---
 
 ### 📫 How to reach me:
 
