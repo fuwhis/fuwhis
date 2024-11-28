@@ -6,7 +6,9 @@
 <h3 align="center">Front-end Web Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fuwhis&color=yellow&style=flat">
-  <a href="https://wakatime.com/@018e0517-06b9-4346-93cb-b91a2f4a9d12"><img src="https://wakatime.com/badge/user/018e0517-06b9-4346-93cb-b91a2f4a9d12.svg" alt="Total time coded since Nov 28 2024" /></a>
+  <a href="https://wakatime.com/@018e0517-06b9-4346-93cb-b91a2f4a9d12">
+    <img src="https://wakatime.com/badge/user/018e0517-06b9-4346-93cb-b91a2f4a9d12.svg" alt="Total time coded since Nov 28 2024" />
+  </a>
 </p>
 
 <p align="center">
@@ -55,7 +57,7 @@
 
 <h4 align="center">🎧 I'm currently listening:</h4>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://open.spotify.com/user/wjkxsp0ez5kscr3ou1or3cgor" target="_blank">
     <img src="https://ldhnam.vercel.app/api/spotify" alt="Spotify">
   </a>
