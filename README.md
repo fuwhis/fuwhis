@@ -73,14 +73,14 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuwhis&theme=vue-dark&hide_border=false&hide_border=true" alt="Fuwhis's Streak" />
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       <img height="190px" src="https://github-readme-stats.vercel.app/api?username=fuwhis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Fuwhis's Stats" />
     </td>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuwhis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Fuwhis's Top Languages" />
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2" align="center" style="border: 1px solid #ccc; padding: 10px;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuwhis&theme=vue&hide_border=true" alt="Fuwhis's github activity graph" />
