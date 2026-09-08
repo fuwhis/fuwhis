@@ -95,4 +95,8 @@
 </table>
 
 ## My Engineering Roadmap
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a9d1751f2ebcf4dde83face?variant=dark" alt="roadmap.sh"/></a>
+<div align="center">
+  <a href="https://roadmap.sh">
+    <img width="65%" src="https://roadmap.sh/card/wide/6a9d1751f2ebcf4dde83face?variant=dark" alt="roadmap.sh"/>
+  </a>
+</div>
