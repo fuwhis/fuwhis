@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/wjkxsp0ez5kscr3ou1or3cgor" target="_blank">
-    <img src="https://js-spotify-sound-card.vercel.app/api/spotify" alt="Spotify">
+    <img src="https://spotify-sound-card.vercel.app/api/spotify" alt="Spotify">
   </a>
 </div>
 
