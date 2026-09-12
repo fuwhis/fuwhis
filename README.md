@@ -57,12 +57,6 @@
 
 <h4 align="center">🎧 I'm currently listening:</h4>
 
-<!-- <div align="center">
-  <a href="https://open.spotify.com/user/wjkxsp0ez5kscr3ou1or3cgor" target="_blank">
-    <img src="https://ldhnam.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</div> -->
-
 <div align="center">
   <a href="https://open.spotify.com/user/wjkxsp0ez5kscr3ou1or3cgor" target="_blank">
     <img src="https://spotify-sound-card.vercel.app/api/spotify" alt="Spotify">
@@ -79,7 +73,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuwhis&theme=vue-dark&hide_border=false&hide_border=true" alt="Fuwhis's Streak" />
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       <img height="190px" src="https://github-readme-stats.vercel.app/api?username=fuwhis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Fuwhis's Stats" />
     </td>
@@ -91,7 +85,7 @@
     <td colspan="2" align="center" style="border: 1px solid #ccc; padding: 10px;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuwhis&theme=vue&hide_border=true" alt="Fuwhis's github activity graph" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ## My Engineering Roadmap
